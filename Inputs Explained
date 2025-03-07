@@ -1,0 +1,28 @@
+#Input explained
+#Python has many "built in" function
+#here is a list
+#https://docs.python.org/3/libary/function.html
+
+#here is a variable
+name = "Sung Jinwoo"
+
+#However, not everybody is called Sung Jinwoo
+#here is how to allow a user to light
+#..their name
+name = str(input("Enter your name"))
+print("nice to meet you",name)
+
+age = str(input("Enter your age"))
+print("wow i cant believe you are",age)
+
+colour = str(input("Enter your favourite colour"))
+print("ur favourite colour is",colour)
+
+Address = str(input("Enter where u live"))
+print("u live at",Address)
+
+Anime = str(input("Whats ur favourite anime?"))
+print("my fav anime is also",Anime)
+
+weight = float(input("How heavy are u?"))
+print("you weight",weight)
