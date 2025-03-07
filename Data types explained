@@ -1,0 +1,9 @@
+#Data types
+#C.R.I.B.S
+#Here are variables that hold...
+#...
+character="4"
+float=1.2
+integer=3
+Boolean=True
+string="ABC123!*&"
