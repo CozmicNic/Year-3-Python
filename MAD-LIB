@@ -1,8 +1,27 @@
-print ("Welcome to MAD-LIB")
-print("Please answer the following questions")
-print("")
+Python 3.10.0 (tags/v3.10.0:b494f59, Oct  4 2021, 19:00:18) [MSC v.1929 64 bit (AMD64)] on win32
+Type "help", "copyright", "credits" or "license()" for more information.
 
-adjective1 = input("Enter an adjective e.g. Small")
-nationality1 = input("Enter a nationality >>>")
+= RESTART: C:/Users/7295/OneDrive - Trinity School/Computer Science/Python/MAD-LIB.py
+Welcome to MAD-LIB
+Please answer the following questions
 
-print("Pizza was invented by a", adjective1, nationality1)
+Enter an adjective e.g. Smallhappy happy happy
+Enter a nationality >>> No mans land
+Enter a person >>>Kaisel
+Enter a place >>>Beru
+Enter an adjective e.g. MassiveBellion
+Name a person e.g. mr borley>>>Harry potter
+Enter a Weapon >>>Irgia
+Enter a catch phrase >>>Iron
+Enter a subject >>>Oars(OP)
+Enter an anime >>>Tusk
+Enter a song >>>Minority - Green day
+Enter a catchphrase e.g. if u did mr borley no conferring >>>IGRIS GET UUUUPPPPP
+Enter a food :3 >>> ) Goto 
+enter a disease >>>Aura farming
+
+Here is your MAD-LIB
+Ur favourite character is a happy happy happy  No mans land Kaisel with a special Irgia who hides in the shadows with his special catch phrase Iron
+Harry potter was the alpha and omega of Oars(OP) they strived to make me the best in this subject but every lesson their was a Tusk refrence and started singing Minority - Green day it was so fun!
+Computers are made by Bellion Harry potter with his special phrase IGRIS GET UUUUPPPPP
+After i get home i go to Beru and i eat  ) Goto  it was always the most delicious food but i caught Aura farming so i had to stay home for the day
